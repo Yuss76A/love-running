@@ -3,7 +3,7 @@
 
 
 /* Asterisk wildcard selector to override default styles added by the browser */
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -388,7 +388,7 @@ padding: 30px;
 }
 
 }
-@media screen and (min-width: 1200px;) {
+@media screen and (min-width: 1200px) {
     /* Reasons Section */
     #benefits {
         display: flex;
@@ -415,6 +415,7 @@ padding: 30px;
     #benefits-phyisical > div {
         align-self: flex-end;
     }
+}
 
     
 
